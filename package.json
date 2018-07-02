@@ -1,0 +1,20 @@
+{
+  "name": "lesson_01",
+  "version": "1.0.0",
+  "description": "javascript test",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha || true"
+  },
+  "author": "Zaliyha",
+  "license": "ISC",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^4.1.2",
+    "jquery": "^3.3.1",
+    "jsdom": "^11.11.0",
+    "jsdom-global": "^3.0.2"
+  }
+}
